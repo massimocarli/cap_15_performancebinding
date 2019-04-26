@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PerformanceBinding</string>
+    <string name="button_label">Show Text!!</string>
+</resources>
